@@ -1,0 +1,53 @@
+h1,h3{
+    color: rgb(243, 13, 9);
+    text-align: center;
+    opacity:0.99;
+}
+h1{
+    color:darkblue;
+    opacity: 0.8;
+    
+}
+body{
+    background-color:cadetblue;
+    
+}
+.par{
+    height:400px;
+    width:400px;
+    display:flex;
+    margin:auto;
+    flex-wrap:wrap;
+    opacity:0.89;
+}
+.child{
+    height:150px;
+    width:150px;
+    margin: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius:13px;
+    box-shadow:6px 6px 13px rgb(0,0,0);
+
+}
+.child:hover{
+    box-shadow: 6px 6px 16px greenyellow;
+}
+
+.cls1{
+    background-color: blue;
+}
+.cls2{
+    background-color: gold;
+}
+.cls3{
+    background-color:brown;
+}
+.cls4{
+    background-color:blueviolet;
+}
+.flash{
+    background-color: white;
+}
+.gflash{
+    background-color:chartreuse;
+}
